@@ -14,4 +14,4 @@ Trabalho do curso de ciência da computação do campus IFB Taguatinga referente
 
 #### Link do Vídeo:
 
-  - [Youtube](https://www.youtube.com/watch?v=sFG13L2v6jY)
+  - [Youtube](https://youtu.be/BH3BAoiTblg)
